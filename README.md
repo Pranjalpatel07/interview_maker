@@ -13,6 +13,10 @@ This project helps users prepare for job applications and interviews in a smarte
 
 ---
 
+# Demo link - https://interview-maker.vercel.app/
+
+---
+
 # Features
 
 ## Resume / Self Description Upload
@@ -90,3 +94,6 @@ project-root/
 │
 ├── README.md
 └── package.json
+
+<img width="1831" height="859" alt="ChatGPT Image May 9, 2026, 05_26_21 AM" src="https://github.com/user-attachments/assets/724a4d4a-fe88-4615-b25a-6dac70bb9863" />
+
